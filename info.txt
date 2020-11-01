@@ -1,0 +1,32 @@
+                          (PART-3)
+Is part mn hm seekhyn gy k 'font awesome' k icons ko hm online kasy use kr skty hain, Part-2 mn hmny dekha tha k offline kasy use krna ha us k liye hmny font-awesome ka ak folder download kr k extract kia tha or us folder sy 'webfonts' or css k folder sy 'all.css' ko copy kr k apni HTML file ki location mn paste kr dia tha Phr apni HTML file mn 'all.css' ko link kia tha or sb icons ko <i> mn 2 classes di hui thi ak sbki same 'fas' or ak sbki unique taa k hr icon ko customize kia ja sky.
+
+Ab hmny wohib file kholi or 'all.css' jo file link thi us tag ko hata dia, or 'webfonts' k jo folder tha usko b delete kr dia or 'all.css' ki jo file thi usko b folder sy delete kr dia.
+
+Ab online icons dalny k liye b internet chahye.
+Ab hm search krty hain 'font awesome cdn' or pahla result e ay ga 'bootstrap.com' ka usko kholiye yahan nichy 'font awesome css' likha hoga or ak bar bni ho gi us mn HTML ka link hoga
+ye ha link
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+isy copy kariye or wapis aa jaiye apni HTML file mn, or jahan hmny 'all.css' ko link kia tha link tag lga k wahin is link ko paste kr lyn.
+Ab page refresh kryn to abi to koi icon ni aya Q k is mn classes different hain or offline icons mn classes different thin.
+
+Ab ap dbara browser mn ayn or search kryn 'font awesome cheatsheet' or ak result ay ga 'fontawesome.bootstrapcheatsheet.com' iska isy kholiye, jasy he isy kholyn gy to yahan pr ICONS mil jayn gy apko.
+Ab yahan hm search kr ly gy HOME Q k home ka icon chahye hmyn, yahan b copy ki option aa jay gi icon k nichy is mn sy html ka code copy kr lyn, or apni HTML file mn jaa k bilkul jis jgah pahly offline home icon ka tag <i> lgaya tha HOME sy pahly wahin pr isko us k sath replace kr dyn.
+
+Ab gor kryn k fark sirf inki class ka ha in icons ki class k 2 naamo mn sy pahla naam 'fa' ha jb k offline jo hmny icon kiye thy us mn naam 'fas' tha, dusra naam dono ka 'fa-home' e ha.
+Ab isi trah baaki icons b naam sy search kr k link copy paste kryn.
+Or contact ka icon ni ha yahan to contao naam ka icon ha wo chal jay ga.
+
+Ab hm ak experiment krty hain k jo nichy div.search mn jo icon ka link tha hmary pas offline wala us ki class k pahla naam 'fas' he hoga to hm is k naam sy 's' ko hata k dekhte hain k ye icon ata ha ya ni, ye search ka icon tha to agr is bootstrap ki website pr fa-search naam ka koi icon hua to wo aa jay ga.(aa gya yani fa-search naam sy bootstrap pe b same icon tha bs uska pahla naam 'fa' tha)
+
+Ab isi trah leaf ka icon lga ha article mn is k 'fas' mn sy 's' htayn to ye b aa jaye ga agr is naam sy hua.(ye b aa gya)
+
+Ab isi trah temperature-high ka icon ha agly article mn wo bootstrap pe search kia to nhi mila to iski jagah hm 'tree' naam ka icon lga dete hain.
+
+Ab hmny child search kia bootstrap  pe to wo b mil gya usi naam sy to is k link ko b copy paste kr lete hain.
+
+Ab in sb ka font size bara krny k liye sirf CSS mn jaa k jin icons ko hm ny 'fas' naam sy handle kia tha uska naam change kr k 'fa' kr dete hain. Or bs sb icons online aa gay.
+
+note: is file mn b ma ny css mn article mn jaa k margin-top 260px kr dia ha Q k 300px sahi ni lg rha tha.
